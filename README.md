@@ -6,9 +6,12 @@ Hi, My name is Bruno da Silva James i am a student and i currently work as a adm
 - C#
 - SQL
 - HTML,CSS
+- Json
 - Java
 
 ## Experiences 
 - HeidiSql 
 - NetBeans
-- .NET C#
+- .NET with C#
+
+
